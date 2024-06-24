@@ -1,0 +1,6 @@
+framework module Pods_QRISPayment {
+  umbrella header "Pods-QRISPayment-umbrella.h"
+
+  export *
+  module * { export * }
+}
